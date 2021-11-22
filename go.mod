@@ -1,4 +1,4 @@
-module dice
+module github.com/twiny/dice
 
 go 1.17
 
